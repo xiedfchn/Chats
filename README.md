@@ -1,2 +1,2 @@
-# Chatting
-a project for communication protocol module in ul.
+# Chats
+a project realising simulated SSL to communicate
