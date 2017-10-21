@@ -14,7 +14,10 @@ NetBeans
 
 ## How it works
 
+I do recommend to learn about RSA, SHA and AES. And how Data Confidentiality, Data Integrity and Digital Signature can be achieved before reading the picture below.
+
 ![](/readme_img/procedure.jpg)
+
 
 
 
