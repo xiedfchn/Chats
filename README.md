@@ -7,4 +7,4 @@ NetBeans >= 8.0
 
 ## How it works
 
-![](/readme_img/)
+![](/readme_img/procedure.jpg)
